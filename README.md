@@ -8,7 +8,7 @@ Hey, there! I am **Arjun AV**, a passionate and devoted MERN stack developer fro
 ### Featured Projects
 
 🚀 **[Social Links Page](https://avarjunsociallinks.netlify.app/)**: a sleek and contemporary React-built social links page.  
-🌟 **[Portfolio Website](https://portfolio-website-6416ed.netlify.app/)**: My own portfolio, which includes projects, abilities, and more.
+🌟 **[Portfolio Website]([https://portfolio-website-6416ed.netlify.app/](https://arjunav.netlify.app/))**: My own portfolio, which includes projects, abilities, and more.
 
 ### Let's Connect!
 
